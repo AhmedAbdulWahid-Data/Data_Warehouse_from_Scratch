@@ -18,4 +18,4 @@ Additionally, this repository includes the **Data Warehouse Concepts** document,
 ## 🎯 Project Objectives
 ✅ Build a **structured data warehouse** optimized for analytics.  
 ✅ Implement **ETL workflows** using **SQL and PySpark**.    
-✅ Enable **scalable big data
+✅ Enable **scalable big data analytics** using **Databricks**.
