@@ -1,6 +1,7 @@
 # 🚀 Data Warehouse from Scratch: SQL & PySpark in Databricks
 
-<img width="690" alt="Screenshot 2025-03-12 at 3 49 31 PM" src="https://github.com/user-attachments/assets/a5d94f46-e748-4a8c-9ff4-2940b321e079" />
+<img width="692" alt="Screenshot 2025-03-12 at 3 46 46 PM" src="https://github.com/user-attachments/assets/8f9a0acb-9258-42a8-8e0a-20e516273b58" />
+
 
 
 ## 📌 Overview
