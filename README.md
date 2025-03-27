@@ -11,7 +11,7 @@ This repository contains two implementations of a **Data Warehouse from Scratch*
 
 Both implementations demonstrate **ETL (Extract, Transform, Load) processes, schema design, and performance optimization** using Databricks.
 
-# You can download the theoretical concepts 👉 [Here! 📂](https://github.com/user-attachments/files/19410450/Data.Warehouse.pdf)
+# You can download my Data Warehouse Guide 👉 [Here! 📂](https://github.com/user-attachments/files/19410450/Data.Warehouse.pdf)
 
 ---
 
